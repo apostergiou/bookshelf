@@ -1,5 +1,7 @@
 # Hanami Bookshelf (example application)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c49f15b4a89f4993adcc57f31086801c)](https://app.codacy.com/app/apostergiou/bookshelf?utm_source=github.com&utm_medium=referral&utm_content=apostergiou/bookshelf&utm_campaign=Badge_Grade_Dashboard)
+
 This repository is the result of going through Hanami's
 [Getting Started](http://hanamirb.org/guides/getting-started/) guide.
 
